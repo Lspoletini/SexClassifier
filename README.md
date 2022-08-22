@@ -1,6 +1,6 @@
 # fMRI Sex Classifier
 Poster submission to OHBM (Organization of Human Brain Mapping) 2021, and honors thesis for Biomedical Engineering Honors Program at Vanderbilt University  
-[**Report**]()   
+[**Report**](https://github.com/Lspoletini/SexClassifier/blob/main/BMEHonorsLiamSpoletini.pdf)   
 [**Poster**]()   
 
 ## Description:
